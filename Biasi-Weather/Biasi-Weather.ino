@@ -3,7 +3,7 @@
 ///  by Ivan & Emanuele  ///
 ////////////////////////////
 
-// For Arduino UNO + AHT20 + BMP280
+// For Arduino UNO + BMP280 + AHT20
 
 #include <Adafruit_BMP280.h>
 #include <Adafruit_AHTX0.h>
